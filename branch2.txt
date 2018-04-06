@@ -1,0 +1,3 @@
+hello india
+welcome to Git training
+bye everyone
